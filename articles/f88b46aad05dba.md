@@ -18,6 +18,11 @@ published_at: "2023-12-23 00:14"
 本記事は[Arsaga 🎅🏻 Advent Calendar 2023](https://qiita.com/advent-calendar/2023/arsaga)の23日目の記事です。
 :::
 
+:::message alert
+本記事で扱っている[golden_toolkit](https://pub.dev/packages/golden_toolkit)はメンテナンスがされなくなったため、[Alchimist](https://github.com/Betterment/alchemist)等
+の使用を検討してください。
+:::
+
 https://qiita.com/advent-calendar/2023/arsaga
 
 ## はじめに
